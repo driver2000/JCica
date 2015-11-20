@@ -1,5 +1,5 @@
 package it.iervolino;
-
+// import stuff
 import com.panayotis.gnuplot.JavaPlot;
 import com.panayotis.gnuplot.layout.StripeLayout;
 import com.panayotis.gnuplot.plot.AbstractPlot;
